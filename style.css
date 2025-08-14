@@ -11,15 +11,3 @@ header {
   background: linear-gradient(90deg, #d8c65e, #a5a736);
 }
 =======
-body {
-  scroll-behavior: smooth;
-}
-
-h2 {
-  margin-bottom: 20px;
-}
-
-header {
-  background: linear-gradient(90deg, #d8c65e, #a5a736);
-}
->>>>>>> f07bc78bb949ec865feaf0dc4db09475d9326c37
