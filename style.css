@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   scroll-behavior: smooth;
 }
@@ -10,4 +9,17 @@ h2 {
 header {
   background: linear-gradient(90deg, #d8c65e, #a5a736);
 }
-=======
+
+button:hover {
+  background-color: #ff6600;
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}
+
+img {
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
