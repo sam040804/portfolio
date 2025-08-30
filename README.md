@@ -10,4 +10,4 @@
 - Projects Showcase
 - Contact Info
 
-![Portfolio Screenshot](images)
+
